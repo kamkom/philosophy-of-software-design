@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.psd</groupId>
+    <artifactId>psd-parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>A Philosophy of Software Design — Examples</name>
+    <description>
+        One Maven module per chapter of "A Philosophy of Software Design" by John Ousterhout,
+        each illustrating a design principle with a "before" and "after" version of the same code.
+    </description>
+
+    <properties>
+        <maven.compiler.release>21</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <!-- New chapter modules are appended here by the /new-chapter skill. -->
+    <modules>
+        <module>ch04-modules-should-be-deep</module>
+    </modules>
+
+</project>

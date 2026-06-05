@@ -1,0 +1,30 @@
+# Maven
+target/
+
+# IntelliJ IDEA / WebStorm
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Maven wrapper: keep scripts + properties, ignore downloaded distribution
+.mvn/wrapper/maven-wrapper.jar
+
+# PDFs
+*.pdf
+
+# AI
+.claude/
