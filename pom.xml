@@ -23,6 +23,7 @@
     <!-- New chapter modules are appended here by the /new-chapter skill. -->
     <modules>
         <module>ch04-modules-should-be-deep</module>
+        <module>ch05-information-hiding</module>
     </modules>
 
 </project>

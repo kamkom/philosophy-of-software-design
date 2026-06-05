@@ -22,6 +22,7 @@ article (the module's `README.md`) explaining the contrast in my own words.
 | Ch. | Title | Module | Status |
 |----:|-------|--------|:------:|
 | 4 | Modules Should Be Deep | [`ch04-modules-should-be-deep`](ch04-modules-should-be-deep) | ⏳ |
+| 5 | Information Hiding | [`ch05-information-hiding`](ch05-information-hiding) | ⏳ |
 
 ## Building
 
