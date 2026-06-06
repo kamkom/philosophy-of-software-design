@@ -26,6 +26,7 @@ article (the module's `README.md`) explaining the contrast in my own words.
 | 6 | General-Purpose Modules Are Deeper | [`ch06-general-purpose-modules-are-deeper`](ch06-general-purpose-modules-are-deeper) | ⏳ |
 | 7 | Different Layer, Different Abstraction | [`ch07-different-layer-different-abstraction`](ch07-different-layer-different-abstraction) | ⏳ |
 | 8 | Pull Complexity Downwards | [`ch08-pull-complexity-downwards`](ch08-pull-complexity-downwards) | ⏳ |
+| 9 | Better Together or Better Apart? | [`ch09-better-together-or-better-apart`](ch09-better-together-or-better-apart) | ⏳ |
 
 ## Building
 

@@ -27,6 +27,7 @@
         <module>ch06-general-purpose-modules-are-deeper</module>
         <module>ch07-different-layer-different-abstraction</module>
         <module>ch08-pull-complexity-downwards</module>
+        <module>ch09-better-together-or-better-apart</module>
     </modules>
 
 </project>
