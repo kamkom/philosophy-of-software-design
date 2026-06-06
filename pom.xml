@@ -24,6 +24,7 @@
     <modules>
         <module>ch04-modules-should-be-deep</module>
         <module>ch05-information-hiding</module>
+        <module>ch06-general-purpose-modules-are-deeper</module>
     </modules>
 
 </project>
