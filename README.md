@@ -27,6 +27,7 @@ article (the module's `README.md`) explaining the contrast in my own words.
 | 7 | Different Layer, Different Abstraction | [`ch07-different-layer-different-abstraction`](ch07-different-layer-different-abstraction) | ⏳ |
 | 8 | Pull Complexity Downwards | [`ch08-pull-complexity-downwards`](ch08-pull-complexity-downwards) | ⏳ |
 | 9 | Better Together or Better Apart? | [`ch09-better-together-or-better-apart`](ch09-better-together-or-better-apart) | ⏳ |
+| 10 | Define Errors Out of Existence | [`ch10-define-errors-out-of-existence`](ch10-define-errors-out-of-existence) | ⏳ |
 
 ## Building
 

@@ -28,6 +28,7 @@
         <module>ch07-different-layer-different-abstraction</module>
         <module>ch08-pull-complexity-downwards</module>
         <module>ch09-better-together-or-better-apart</module>
+        <module>ch10-define-errors-out-of-existence</module>
     </modules>
 
 </project>
