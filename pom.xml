@@ -25,6 +25,8 @@
         <module>ch04-modules-should-be-deep</module>
         <module>ch05-information-hiding</module>
         <module>ch06-general-purpose-modules-are-deeper</module>
+        <module>ch07-different-layer-different-abstraction</module>
+        <module>ch08-pull-complexity-downwards</module>
     </modules>
 
 </project>

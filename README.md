@@ -24,6 +24,8 @@ article (the module's `README.md`) explaining the contrast in my own words.
 | 4 | Modules Should Be Deep | [`ch04-modules-should-be-deep`](ch04-modules-should-be-deep) | ⏳ |
 | 5 | Information Hiding | [`ch05-information-hiding`](ch05-information-hiding) | ⏳ |
 | 6 | General-Purpose Modules Are Deeper | [`ch06-general-purpose-modules-are-deeper`](ch06-general-purpose-modules-are-deeper) | ⏳ |
+| 7 | Different Layer, Different Abstraction | [`ch07-different-layer-different-abstraction`](ch07-different-layer-different-abstraction) | ⏳ |
+| 8 | Pull Complexity Downwards | [`ch08-pull-complexity-downwards`](ch08-pull-complexity-downwards) | ⏳ |
 
 ## Building
 
